@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Abderazak-Amiar/semantic-release-demo/compare/v1.0.0...v1.0.1) (2024-06-24)
+
+
+### Bug Fixes
+
+* fix ans issue 1 ([28b78ee](https://github.com/Abderazak-Amiar/semantic-release-demo/commit/28b78ee3d29798e398e4b46511e13af22d0f8492))
+
 # 1.0.0 (2024-06-24)
 
 
