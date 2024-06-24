@@ -4,8 +4,6 @@ on:
     branches:
       # Change this if your primary branch is not main
       - master
-      - dev
-
 jobs:
   main:
     runs-on: ubuntu-latest
