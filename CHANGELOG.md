@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/Abderazak-Amiar/semantic-release-demo/compare/v1.1.0...v2.0.0) (2024-06-24)
+
+
+### Features
+
+* add new feat ([e755e30](https://github.com/Abderazak-Amiar/semantic-release-demo/commit/e755e30bc056c9460d7c09c3485a08ca286df775))
+
+
+### BREAKING CHANGES
+
+* you need to update you verion the api was changed
+
 # [1.1.0](https://github.com/Abderazak-Amiar/semantic-release-demo/compare/v1.0.1...v1.1.0) (2024-06-24)
 
 
