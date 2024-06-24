@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Abderazak-Amiar/semantic-release-demo/compare/v1.0.1...v1.1.0) (2024-06-24)
+
+
+### Features
+
+* add a button component ([4f909f2](https://github.com/Abderazak-Amiar/semantic-release-demo/commit/4f909f26d207b371210e5a090beb26a7db17f290))
+
 ## [1.0.1](https://github.com/Abderazak-Amiar/semantic-release-demo/compare/v1.0.0...v1.0.1) (2024-06-24)
 
 
