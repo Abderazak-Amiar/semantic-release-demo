@@ -1,23 +1,22 @@
-name: Semantic release 
-
+name: test
 on:
   push:
     branches:
+      # Change this if your primary branch is not main
       - master
+      - dev
+
 jobs:
-  publish:
+  main:
     runs-on: ubuntu-latest
+    environment:
+      name: Semver #your environment name
     steps:
-      - uses: actions/checkout@v2
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          node-version: 12
-      - name: Install dependencies
-        run: npm install 
-      - name: Build app
-        run: npm run build 
-      - name: Semantic release
+          persist-credentials: false
+      - name: Semantic Release
+        uses: cycjimmy/semantic-release-action@v4
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: npx semantic-release
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
