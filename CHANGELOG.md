@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/Abderazak-Amiar/semantic-release-demo/compare/v2.0.0...v2.1.0) (2024-06-25)
+
+
+### Features
+
+* add new form component ([525699a](https://github.com/Abderazak-Amiar/semantic-release-demo/commit/525699ac1e6122d1452c2c0d938b0df0791db39a))
+
 # [2.0.0](https://github.com/Abderazak-Amiar/semantic-release-demo/compare/v1.1.0...v2.0.0) (2024-06-24)
 
 
