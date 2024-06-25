@@ -1,3 +1,16 @@
+# [2.2.0](https://github.com/Abderazak-Amiar/semantic-release-demo/compare/v2.1.0...v2.2.0) (2024-06-25)
+
+
+### Bug Fixes
+
+* **navbar:** fix an issue ([4921e20](https://github.com/Abderazak-Amiar/semantic-release-demo/commit/4921e208103ec988c5d5973997d53bb9b7dc26b9))
+
+
+### Features
+
+* add link component ([bacfa60](https://github.com/Abderazak-Amiar/semantic-release-demo/commit/bacfa60a6e3dc271b551f4407afb4fa4fce2b37b))
+* **navbar:** implement navigation bar ([25c139b](https://github.com/Abderazak-Amiar/semantic-release-demo/commit/25c139bc152817b525856f5950bd46955577c067))
+
 # [2.1.0](https://github.com/Abderazak-Amiar/semantic-release-demo/compare/v2.0.0...v2.1.0) (2024-06-25)
 
 
